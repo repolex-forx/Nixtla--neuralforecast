@@ -1,0 +1,11 @@
+{
+  "org": "Nixtla",
+  "repo": "neuralforecast",
+  "versions": [
+    {
+      "commit": "6c11accfbcfdd62a40ef69a7c81e3d9c7f272682",
+      "tag": "",
+      "parsed_at": "2026-10-17T18:47:00.145709+00:00"
+    }
+  ]
+}
