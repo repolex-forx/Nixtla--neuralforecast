@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Nixtla/neuralforecast/commit/6c11accfbcfdd62a40ef69a7c81e3d9c7f272682",
       "git:hexsha": "6c11accfbcfdd62a40ef69a7c81e3d9c7f272682",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Nixtla/neuralforecast/commit/7f009250dc34645ce31e261e6a50775124d4034f",
